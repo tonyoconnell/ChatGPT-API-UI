@@ -61,9 +61,9 @@ You are a therapist. ETC...`;
       </button>
       <div class="py-1 select-none">
         <p class="text-left px-8 font-bold text-xl ">
-          PatrikZero's <br />
+          ONE <br />
         </p>
-        <p class="text-center font-bold text-2xl  leading-4">ChatGPT UI</p>
+        <img src="/LogoLight.png">
       </div>
       <div class="flex flex-col h-40 my-2 flex-grow overflow-y-auto ">
         <!-- TU ZACINA -->
