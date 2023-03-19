@@ -524,10 +524,10 @@
 
     <!-- CHAT INPUT WINDOW BEGINNING -->
     <div class="flex-col bg-primary">
-      {#if lastMsgTokenCount >= 3500}
+      {#if lastMsgTokenCount >= 27900}
         <p class="px-4 pt-1">
           Last message too long ({lastMsgTokenCount} tokens), may start losing context
-          after 4096 tokens. Summarization advised.
+          after 32768 tokens. Summarization advised.
         </p>
       {/if}
       <div class="flex p-2 bg-primary mt-auto">
