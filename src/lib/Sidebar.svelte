@@ -60,10 +60,7 @@ You are a therapist. ETC...`;
         New chat
       </button>
       <div class="py-1 select-none">
-        <p class="text-left px-8 font-bold text-xl ">
-          ONE <br />
-        </p>
-        <img src="/LogoLight.png">
+       <img src="/LogoLight.png">
       </div>
       <div class="flex flex-col h-40 my-2 flex-grow overflow-y-auto ">
         <!-- TU ZACINA -->

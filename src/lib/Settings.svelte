@@ -41,11 +41,7 @@
       <h2 class="text-xl mb-2 font-bold ">Settings</h2>
       <div class="mb-4">
         <label for="api-key" class="block font-medium mb-2"
-          >API Key <a
-            class="text-blue-300"
-            href="https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI/blob/main/README.md"
-            >(Tutorial)</a
-          ></label
+          >API Key </label
         >
         <input
           type="password"
