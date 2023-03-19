@@ -211,7 +211,7 @@
       },
       method: "POST",
       payload: JSON.stringify({
-        model: "gpt-3.5-turbo",
+        model: "gpt-4",
         messages: msg,
         stream: true,
       }),
@@ -457,7 +457,7 @@
 <head>
   <title
     >{$conversations[$chosenConversationId].title ||
-      "PatrikZero's ChatGPT UI"}</title
+      "ONE AI"}</title
   >
 </head>
 <main class="bg-primary overflow-hidden">

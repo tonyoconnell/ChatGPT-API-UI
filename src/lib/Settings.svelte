@@ -91,10 +91,6 @@
           class="bg-good hover:bg-good2 transition-colors duration-200 text-white py-2 px-4 rounded"
           on:click={handleSave}>Save</button
         >
-        <a
-          href="https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI"
-          class="text-sm text-gray-400">GitHub</a
-        >
       </div>
     </div>
   </div>
